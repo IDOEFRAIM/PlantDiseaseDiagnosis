@@ -1,2 +1,2 @@
 # PlantDiseaseDiagnosis
-Ce project vise a fine-tuner EffiscientNet pour detecter de potentielles maladies des plantes
+Ce project vise a fine-tuner mobilenet pour detecter de potentielles maladies des plantes
